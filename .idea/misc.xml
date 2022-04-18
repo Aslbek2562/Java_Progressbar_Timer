@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projects/Java_Progressbar_Style_Timer/app/src/main/res/drawable/circle_shape.xml" value="0.3703125" />
         <entry key="..\:/Android Projects/Java_Progressbar_Style_Timer/app/src/main/res/drawable/progressbar_style.xml" value="0.3703125" />
         <entry key="..\:/Android Projects/Java_Progressbar_Style_Timer/app/src/main/res/layout/activity_main.xml" value="0.34010416666666665" />
       </map>

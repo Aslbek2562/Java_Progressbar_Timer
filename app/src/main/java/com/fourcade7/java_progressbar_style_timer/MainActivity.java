@@ -24,7 +24,9 @@ public class MainActivity extends AppCompatActivity {
                 public void onTick(long millisUntilFinished) {
                     t++;
                     binding.textview1.setText(t+" %");
+                    binding.textview2.setText(t+" %");
                     binding.progressbar1.setProgress(t);
+                    binding.progressbar2.setProgress(t);
                 }
                 public void onFinish() {
                 }
